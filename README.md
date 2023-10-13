@@ -5,7 +5,7 @@
 - 🤔 Looking for help with: Rom hacking Pokémon Emerald and adding virtual reality support to Unity based games through modding.
 - 📫 How to reach me: matthiewpurple@hotmail.com
 - 📓 Previous works:
-    - [Shin Omori Tensei](https://mods.one/mod/shinomoritensei) for [OMORI](https://www.omori-game.com),
-    - [Quality of Death](https://gamebanana.com/mods/443748) for [Shin Megami Tensei III Nocturne HD Remaster](https://www.atlus.com/smt3/),
-    - [Another SMT V Rebalance](https://gamebanana.com/mods/460115) for [Shin Megami Tensei V](https://atlus.com/smt5/),
-    - [Harder E.M.M.I.s](https://gamebanana.com/mods/455676) and [No E.M.M.I. door checkpoints](https://gamebanana.com/mods/455498) for [Metroid Dread](https://metroid.nintendo.com/dread/).
+    - [Shin Omori Tensei](https://mods.one/mod/shinomoritensei) (for [OMORI](https://www.omori-game.com)),
+    - [Quality of Death](https://gamebanana.com/mods/443748) (for [Shin Megami Tensei III Nocturne HD Remaster](https://www.atlus.com/smt3/)),
+    - [Another SMT V Rebalance](https://gamebanana.com/mods/460115) (for [Shin Megami Tensei V](https://atlus.com/smt5/)),
+    - [Harder E.M.M.I.s](https://gamebanana.com/mods/455676) and [No E.M.M.I. door checkpoints](https://gamebanana.com/mods/455498) (for [Metroid Dread](https://metroid.nintendo.com/dread/)).
